@@ -5,6 +5,7 @@
 ### CHG
 
 - Graceful shutdown for boot scripts on SIGTERM and SIGINT [David Zuelke]
+- Translate `NEW_RELIC_LOG_LEVEL` values "verbose" and "verbosedebug" to "debug" for `newrelic-daemon` [David Zuelke]
 
 ## v136 (2018-05-24)
 
